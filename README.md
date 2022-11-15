@@ -1,7 +1,9 @@
 ### Hi there 👋
+I mostly program in Python but have experience with Js and Go.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvanglro&show_icons=true&theme=dracula)](https://github.com/vvanglro/vvanglro)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvanglro&layout=compact&theme=dracula&card_width=445)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/vvanglro/vvanglro))
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvanglro&layout=compact&theme=dracula&card_width=445)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/vvanglro/vvanglro)) -->
 
 
 
