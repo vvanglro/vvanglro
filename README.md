@@ -1,5 +1,5 @@
 ### Hi there 👋
-I mostly program in Python but have experience with Js and Go.
+I mostly program in Python, have Js and Go experience, and learning Rust.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvanglro&show_icons=true&theme=dracula)](https://github.com/vvanglro/vvanglro)
 
