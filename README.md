@@ -1,5 +1,9 @@
 ### Hi there 👋
+
 I mostly program in Python, have Js and Go experience, and learning Rust.
+
+#### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/vvanglro/count.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvanglro&show_icons=true&theme=dracula)](https://github.com/vvanglro/vvanglro)
 
