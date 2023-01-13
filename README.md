@@ -5,7 +5,7 @@ I mostly program in Python, have Js and Go experience, and learning Rust.
 #### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/vvanglro/count.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvanglro&show_icons=true&theme=dracula)](https://github.com/vvanglro/vvanglro)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vvanglro&show_icons=true&theme=dracula)](https://github.com/vvanglro/vvanglro)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvanglro&layout=compact&theme=dracula&card_width=445)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/vvanglro/vvanglro)) -->
 
