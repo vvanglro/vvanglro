@@ -2,6 +2,8 @@
 
 I mostly program in Python, have Js and Go experience, and learning Rust.
 
+Visit GitHub to brush issue and PR is something I must do every day, Once discover some interesting and within capabilities issues, I will propose a PR to try and solve it.
+
 #### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/vvanglro/count.svg)
 
