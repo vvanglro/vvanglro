@@ -1,5 +1,5 @@
-<div align="center">
-<img src='art.svg' />
+<div style="text-align:center">
+<img src='art.svg'  alt=""/>
 
 
 ### Hi there 👋
