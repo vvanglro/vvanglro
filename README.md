@@ -14,7 +14,7 @@ Visit GitHub to brush issue and PR is something I must do every day, Once discov
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vvanglro&show_icons=true&theme=dracula)](https://github.com/vvanglro/vvanglro)
 
-#### My heartbeat
+#### [My heartbeat](https://github.com/vvanglro/iBeats?tab=readme-ov-file#ibeats)
 ![](https://raw.githubusercontent.com/vvanglro/iBeats/main/files/heart.svg)
 </div>
 
