@@ -18,7 +18,7 @@ Visit GitHub to brush issue and PR is something I must do every day, Once discov
 ![](https://raw.githubusercontent.com/vvanglro/iBeats/main/files/heart.svg)
 
 #### [My Riding Page](https://www.vvanglro.us.kg/)
-![https://www.vvanglro.us.kg](https://github.com/vvanglro/Riding_page/blob/main/assets/github.svg)
+![https://www.vvanglro.us.kg](https://github.com/vvanglro/Riding_page/blob/main/assets/github_2024.svg)
 
 </div>
 
