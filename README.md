@@ -8,17 +8,20 @@ I mostly program in Python, have Js and Go experience, and learning Rust. 🤯
 
 Visit GitHub to brush issue and PR is something I must do every day, Once discover some interesting and within capabilities issues, I will propose a PR to try and solve it. 🥳
 
-
+<!--
 #### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/vvanglro/count.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvanglro&show_icons=true&theme=dracula)](https://github.com/vvanglro/vvanglro)
+-->
 
 #### [My Heartbeat](https://github.com/vvanglro/iBeats?tab=readme-ov-file#ibeats)
 ![](https://raw.githubusercontent.com/vvanglro/iBeats/main/files/heart.svg)
 
+<!--
 #### [My Riding Page](https://www.vvanglro.eu.org/)
 ![https://www.vvanglro.eu.org/](https://github.com/vvanglro/Riding_page/blob/main/assets/github.svg)
+-->
 
 </div>
 
